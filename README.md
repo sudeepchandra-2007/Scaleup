@@ -1,0 +1,2 @@
+# Scaleup
+BIT N BUILD HACKATHON 2024
